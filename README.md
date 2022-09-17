@@ -61,14 +61,14 @@
 <br/>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadaba1995&theme=gotham&show_icons=true&locale=en&layout=compact%22%20alt=%22AZMATRAZA"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AZMATRAZA&theme=gotham&show_icons=true&locale=en&layout=compact%22%20alt=%22AZMATRAZA"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AMZATRAZA&theme=gotham&show_icons=true&locale=en" alt="AZMATRAZA" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AZMATRAZA&theme=gotham&show_icons=true&locale=en" alt="AZMATRAZA" /></p>
 </div>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AZMATRAZA&theme=gotham" alt="AMZATRAZA" /></p>
 <p align="right"> <img src="https://camo.githubusercontent.com/3a623a61909525cde7d44900776e30f619f731da1fe79c07111179fe071f523f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4832744b514c4d4673493063674a783566322f67697068792e676966" alt="thanks" />  </p>
 
-<a href="https://github.com/shadaba1995/github-readme-activity-graph"><img alt="Md Azmat Raza's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AMZATRAZA&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/shadaba1995/github-readme-activity-graph"><img alt="Md Azmat Raza's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AZMATRAZA&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
