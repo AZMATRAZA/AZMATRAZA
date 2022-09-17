@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Azmat Raza !!</h1>
-<p align="center">I'm  graduated from  Maulana Azad National Urdu University . I'm  B.Tech  Graduated  in computer science & Engineering.Keep to learn new Technology and Love to contribute in open source projects</p>
+<p align="center">I'm  graduated from  Maulana Azad National Urdu University . I'm  B.Tech  Graduated  in computer science, Keep to learn new Technology and Love to contribute in open source projects</p>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
